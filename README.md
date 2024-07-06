@@ -36,6 +36,7 @@ As I embark on my career journey, I am excited to contribute my technical skills
 
 <h2 align="left">:heart: Let's get connected:</h2>
 [![Linkedin Badge](https://img.shields.io/badge/-hassan813-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hassan813/)](https://www.linkedin.com/in/hassan813)]
+[![Linkedin Badge](https://img.shields.io/badge/-Sivram.tech-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://sivram.tech/)](https://sivram.tech/)
 <!--
 **HassanDev1/HassanDev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
