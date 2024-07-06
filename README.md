@@ -31,8 +31,11 @@
 - :experience: Developed and deployed a ticketing system using React and Chakra UI, reducing response times by 30% and increasing task completion by 20% during my internship at Nagarro GS INC.
 
 - :repo: Check out my repositories to see my work in action and feel free to connect with me!
+- 📈 **Future Goals:**
+As I embark on my career journey, I am excited to contribute my technical skills to innovative projects that push boundaries and drive positive change. I am seeking opportunities where I can continue to learn, grow, and collaborate with talented professionals in the tech industry
 
 <h2 align="left">:heart: Let's get connected:</h2>
+[![Linkedin Badge](https://img.shields.io/badge/-hassan813-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hassan813/)](https://www.linkedin.com/in/hassan813)]
 <!--
 **HassanDev1/HassanDev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
